@@ -42,7 +42,7 @@
 				
 			</plugin>
 		</plugins>
-		
+		<finalName>springbootdevopsproject</finalName>
 	</build>
 
 </project>
